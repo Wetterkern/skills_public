@@ -11,6 +11,14 @@
         "source": "github",
         "repo": "mattpocock/skills"
       }
+    },
+    {
+      "name": "graphify",
+      "description": "Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph",
+      "source": {
+        "source": "github",
+        "repo": "safishamsi/graphify"
+      }
     }
   ]
 }
